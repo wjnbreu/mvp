@@ -1,10 +1,12 @@
-# MVP.css — Minimalist stylesheet for HTML elements
+# MVP stylesheet for HTML elements
 
-Out of the box CSS styling for HTML elements. No class names, no framework to learn.
+This is a fork of [MVP.css](https://github.com/andybrewer/mvp)
+
+Currently exploring the use of this branch as basis for a repo template I can use.
 
 Live demo: https://andybrewer.github.io/mvp/
 
-## Versions
+## Version Release History at time of fork
 
 ### v1.1
 * Fixed code blocks to use `<pre><code>` instead of `<samp>`
